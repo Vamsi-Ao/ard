@@ -32,7 +32,7 @@ else if(t == 'b'){
  
 else if(t == 'l'){
   digitalWrite(9,LOW);
-  digitalWrite(10,LOW);
+  digitalWrite(10,HIGH);
   digitalWrite(11,HIGH);
   digitalWrite(12,LOW);
 }
@@ -41,7 +41,7 @@ else if(t == 'r'){
   digitalWrite(9,HIGH);
   digitalWrite(10,LOW);
   digitalWrite(11,LOW);
-  digitalWrite(12,LOW);
+  digitalWrite(12,High);
 }
  
 else if(t == 's'){
