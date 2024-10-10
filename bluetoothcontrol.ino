@@ -41,7 +41,7 @@ else if(t == 'r'){
   digitalWrite(9,HIGH);
   digitalWrite(10,LOW);
   digitalWrite(11,LOW);
-  digitalWrite(12,High);
+  digitalWrite(12,HIGH);
 }
  
 else if(t == 's'){
